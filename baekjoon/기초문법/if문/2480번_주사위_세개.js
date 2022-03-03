@@ -26,8 +26,8 @@
 
 // 문제풀이(1)
 function solution(input){
-    // const num = require("fs").readFileSync('/dev/stdin').toString().split(' ');
-    const num = input.split(' ');
+    // const num = require("fs").readFileSync('/dev/stdin').toString().split(' ').sort((a, b)=> a - b);
+    const num = input.split(' ').sort((a, b)=> a - b);
     const A = Number(num[0]);
     const B = Number(num[1]);
     const C = Number(num[2]);
