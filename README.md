@@ -24,7 +24,7 @@
         <li>18108번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/18108%EB%B2%88_2541%EB%85%84%EC%83%9D.js">2541년생</a></li>
         <li>2588번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/2588%EB%B2%88_%EA%B3%B1%EC%85%88.js">곱셈</a></li>
     </ul>
-        <h2>입출력과 사칙연산</h2>
+        <h2>if문</h2>
     <ul>
         <li>1330번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/1330%EB%B2%88_%EB%91%90_%EC%88%98_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js">두 수 비교하기</a></li>
         <li>9498번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/9498%EB%B2%88_%EC%8B%9C%ED%97%98_%EC%84%B1%EC%A0%81.js">시험 성적</a></li>
