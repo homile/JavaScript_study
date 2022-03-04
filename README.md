@@ -7,5 +7,5 @@
 프론트엔드는 과제중심으로 이루어지기 때문에 클론 코딩 등을 해야함.
 
 <details>
-<a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js">코드리뷰</a>
+1001번 <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js">스택</a>
 </details>
