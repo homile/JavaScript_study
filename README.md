@@ -7,5 +7,5 @@
 프론트엔드는 과제중심으로 이루어지기 때문에 클론 코딩 등을 해야함.
 
 <details>
-[코드작성](https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/1330%EB%B2%88_%EB%91%90_%EC%88%98_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js) 
+<a href:"https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js"/>
 </details>
