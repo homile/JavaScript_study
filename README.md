@@ -9,9 +9,9 @@
 # Beakjoon
 <details>
     <summary>자료구조</summary>
-    <li> 
-    10828번<a href="https://github.com/homile/JavaScript_study/blob/main/baekjoonAlgorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js">스택</a>
-    <li>
+    <ul>
+        <li>　　10828번<a href="https://github.com/homile/JavaScript_study/blob/main/baekjoonAlgorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js">스택</a><li>
+    </ul>
 </details>
 
 # Programmers
