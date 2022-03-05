@@ -24,7 +24,7 @@
         <li>18108번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/18108%EB%B2%88_2541%EB%85%84%EC%83%9D.js">2541년생</a></li>
         <li>2588번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/2588%EB%B2%88_%EA%B3%B1%EC%85%88.js">곱셈</a></li>
     </ul>
-        <h2>if문</h2>
+    <h2>if문</h2>
     <ul>
         <li>1330번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/1330%EB%B2%88_%EB%91%90_%EC%88%98_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js">두 수 비교하기</a></li>
         <li>9498번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/9498%EB%B2%88_%EC%8B%9C%ED%97%98_%EC%84%B1%EC%A0%81.js">시험 성적</a></li>
@@ -33,6 +33,20 @@
         <li>2884번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/2884%EB%B2%88_%EC%95%8C%EB%9E%8C_%EC%8B%9C%EA%B3%84.js">알람 시계</a></li>
         <li>2525번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/2525%EB%B2%88_%EC%98%A4%EB%B8%90_%EC%8B%9C%EA%B3%84.js">오븐 시계</a></li>
         <li>2480번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/2480%EB%B2%88_%EC%A3%BC%EC%82%AC%EC%9C%84_%EC%84%B8%EA%B0%9C.js">주사위 세개</a></li>
+    </ul>
+    <h2>for문</h2>
+    <ul>
+        <li>2739번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2739%EB%B2%88_%EA%B5%AC%EA%B5%AC%EB%8B%A8.js">구구단</a></li>
+        <li>10950번: <a href="">A+B-3</a></li>
+        <li>8393번: <a href="">합</a></li>
+        <li>15552번: <a href="">빠른 A+B</a></li>
+        <li>2741번: <a href="">N 찍기</a></li>
+        <li>2742번: <a href="">기찍 N</a></li>
+        <li>11021번: <a href="">A+B-7</a></li>
+        <li>11022번: <a href="">A+B-8</a></li>
+        <li>2438번: <a href="">별 찍기-1</a></li>
+        <li>2439번: <a href="">별 찍기-2</a></li>
+        <li>10871번: <a href="">X보다 작은 수</a></li>
     </ul>
 </details>
 
