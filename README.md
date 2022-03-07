@@ -37,10 +37,10 @@
     <h2>for문</h2>
     <ul>
         <li>2739번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2739%EB%B2%88_%EA%B5%AC%EA%B5%AC%EB%8B%A8.js">구구단</a></li>
-        <li>10950번: <a href="">A+B-3</a></li>
-        <li>8393번: <a href="">합</a></li>
-        <li>15552번: <a href="">빠른 A+B</a></li>
-        <li>2741번: <a href="">N 찍기</a></li>
+        <li>10950번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/10950%EB%B2%88_A%2BB-3.js">A+B-3</a></li>
+        <li>8393번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/8393%EB%B2%88_%ED%95%A9.js">합</a></li>
+        <li>15552번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/15552%EB%B2%88_%EB%B9%A0%EB%A5%B8A%2BB.js">빠른 A+B</a></li>
+        <li>2741번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2741%EB%B2%88_N%EC%B0%8D%EA%B8%B0.js">N 찍기</a></li>
         <li>2742번: <a href="">기찍 N</a></li>
         <li>11021번: <a href="">A+B-7</a></li>
         <li>11022번: <a href="">A+B-8</a></li>

@@ -18,9 +18,10 @@
 // 아마 매번 console.log를 찍어서 그런듯
 
 
-// 문제풀이(2)
+// 문제풀이(2)  통과
 function solution(input){
     //const num = require("fs").readFileSync('/dev/stdin').toString().split('\n');
+
     const num = input.split('\n');
     let answer = '';
 
