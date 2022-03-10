@@ -87,6 +87,8 @@
 <details>
     <summary>1</summary>
     <details>
-        +<summary>2</summary>
+        <ul>
+            <summary>2</summary>
+        </ul>
     </detials>
 </detials>
