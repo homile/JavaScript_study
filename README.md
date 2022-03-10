@@ -86,9 +86,9 @@
 
 <details>
     <summary>1</summary>
-    <details>
-        <ul>
-            <summary>2</summary>
-        </ul>
-    </detials>
+    <ul>    
+        <details>
+        <summary>2</summary>
+        </detials>
+    </ul>
 </detials>
