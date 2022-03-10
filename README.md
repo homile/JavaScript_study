@@ -53,12 +53,12 @@
                 <li>8393번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/8393%EB%B2%88_%ED%95%A9.js">합</a></li>
                 <li>15552번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/15552%EB%B2%88_%EB%B9%A0%EB%A5%B8A%2BB.js">빠른 A+B</a></li>
                 <li>2741번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2741%EB%B2%88_N%EC%B0%8D%EA%B8%B0.js">N 찍기</a></li>
-                <li>2742번: <a href="">기찍 N</a></li>
-                <li>11021번: <a href="">A+B-7</a></li>
-                <li>11022번: <a href="">A+B-8</a></li>
-                <li>2438번: <a href="">별 찍기-1</a></li>
-                <li>2439번: <a href="">별 찍기-2</a></li>
-                <li>10871번: <a href="">X보다 작은 수</a></li>
+                <li>2742번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2742%EB%B2%88_%EA%B8%B0%EC%B0%8DN.js">기찍 N</a></li>
+                <li>11021번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/11021%EB%B2%88_A%2BB-7.js">A+B-7</a></li>
+                <li>11022번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/11022%EB%B2%88_A%2BB-8.js">A+B-8</a></li>
+                <li>2438번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2438%EB%B2%88_%EB%B3%84%EC%B0%8D%EA%B8%B0-1.js">별 찍기-1</a></li>
+                <li>2439번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2439%EB%B2%88_%EB%B3%84%EC%B0%8D%EA%B8%B0-2.js">별 찍기-2</a></li>
+                <li>10871번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/10871%EB%B2%88_X%EB%B3%B4%EB%8B%A4_%EC%9E%91%EC%9D%80_%EC%88%98.js">X보다 작은 수</a></li>
             </ul>
         </details>
     </ul>
