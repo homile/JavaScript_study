@@ -15,9 +15,8 @@
 </details>
 <details>
     <summary>기본문법</summary>
-    <details>
+    ###<details>
         <summary>입출력과 사칙연산 </summary>
-        <h2>입출력과 사칙연산</h2>
         <ul>
             <li>1000,...: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/1000%2C%201001%2C%2010998%2C%201008%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js">A+B,...</a></li>
             <li>10172번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/10172%EB%B2%88_%EA%B0%95%EC%95%84%EC%A7%80.js">강아지</a></li>
@@ -29,7 +28,6 @@
     </details>
     <details>
         <summary>if문</summary>
-        <h2>if문</h2>
         <ul>
             <li>1330번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/1330%EB%B2%88_%EB%91%90_%EC%88%98_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js">두 수 비교하기</a></li>
             <li>9498번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/if%EB%AC%B8/9498%EB%B2%88_%EC%8B%9C%ED%97%98_%EC%84%B1%EC%A0%81.js">시험 성적</a></li>
@@ -42,7 +40,6 @@
     </details>
     <details>
         <summary>for문</summary>
-        <h2>for문</h2>
         <ul>
             <li>2739번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/2739%EB%B2%88_%EA%B5%AC%EA%B5%AC%EB%8B%A8.js">구구단</a></li>
             <li>10950번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/for%EB%AC%B8/10950%EB%B2%88_A%2BB-3.js">A+B-3</a></li>
