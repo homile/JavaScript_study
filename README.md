@@ -15,7 +15,7 @@
 </details>
 <details>
     <summary>기본문법</summary>
-    ###<details>
+    <details>
         <summary>입출력과 사칙연산 </summary>
         <ul>
             <li>1000,...: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/1000%2C%201001%2C%2010998%2C%201008%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js">A+B,...</a></li>
@@ -83,3 +83,10 @@
         <li>피보나치 수: <a href="https://github.com/homile/JavaScript_study/blob/main/programmers/%5Blevel2%5D%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.js">풀이</a></li>
     </ul>
 </details>
+
+<details>
+    <summary>1</summary>
+    <details>
+        <summary>2</summary>
+    </detials>
+</detials>
