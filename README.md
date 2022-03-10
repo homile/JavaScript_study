@@ -11,6 +11,8 @@
     <summary>자료구조</summary>
     <ul>
         <li>10828번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoonAlgorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js">스택</a></li>
+        <li>9093번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/9093%EB%B2%88_%EB%8B%A8%EC%96%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.js">단어 뒤집기</a></li>
+        <li>9012번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/9012%EB%B2%88_%EA%B4%84%ED%98%B8.js">괄호</a></li>
     </ul>
 </details>
 <details>
