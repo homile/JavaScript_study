@@ -222,6 +222,7 @@ pop
 push 3
 empty
 top`))
+
 // 2
 // 2
 // 0
