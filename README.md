@@ -62,6 +62,16 @@
             </ul>
         </details>
     </ul>
+    <ul>
+        <details>
+            <summary>while문</summary>
+            <ul>
+                <li>10951번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/while%EB%AC%B8/10951%EB%B2%88_A%2BB-4.js">A+B-4</a></li>
+                <li>10952번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/while%EB%AC%B8/10952%EB%B2%88_A%2BB-5.js">A+B-5</a></li>
+                <li>1110번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/while%EB%AC%B8/1110%EB%B2%88_%EB%8D%94%ED%95%98%EA%B8%B0_%EC%82%AC%EC%9D%B4%ED%81%B4.js">더하기 사이클</a></li>
+            </ul>
+        </details>
+    </ul>
 </details>
 
 # Programmers
