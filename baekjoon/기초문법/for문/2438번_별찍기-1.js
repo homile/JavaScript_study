@@ -14,6 +14,7 @@
 // 문제풀이(1)
 function solution(input){
 
+   // const num = require("fs").readFileSync('/dev/stdin').toString();
    const num = input;
 
    for (let i = 1; i <= Number(num); i++){
