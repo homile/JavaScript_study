@@ -28,9 +28,64 @@ push연산은 +로, pop 연산은 -로 표현하도록 한다. 불가능한 경�
 https://organize-study.tistory.com/60
 */
 
+// 문제풀이(1)
 function solution(input){
+   // const com_input = require('fs').readFileSync('/dev/stdin').toString().split(' ');
+   const [n, ...nums] = input.split('\n');
+   const numbers = nums;
+   let stack = [];
+   let count = 1;
+   let answer = '';
+   // console.log(numbers);
 
+   for (let i = 0 ; i < n[0]; i++){
+      let number = Number(numbers.shift());    // 입력받은 맨 앞의 값을 가져옴
+      while(count <= number){
+         stack.push(count);
+         count++;
+         answer += '+\n';
+      }
+      let popNum = stack.pop();
+      if (popNum !== number){
+         answer = 'NO';
+         break;
+      }
+      answer += '-\n';
+   }
+   console.log(answer.trim());
 }
+
+// 제출시 7%까지 가고 틀림
+
+
+// 문제풀이(2)
+function solution(input){
+   // const [n, ...nums] = require('fs').readFileSync('/dev/stdin').toString().split('\n');
+   const [n, ...nums] = input.split('\n');
+   const numbers = nums;
+   let stack = [];
+   let count = 1;
+   let answer = '';
+   // console.log(numbers);
+
+   for (let i = 0 ; i < n; i++){
+      let number = Number(numbers.shift());    // 입력받은 맨 앞의 값을 가져옴
+      while(count <= number){
+         stack.push(count);
+         count++;
+         answer += '+\n';
+      }
+      let popNum = stack.pop();
+      if (popNum !== number){
+         answer = 'NO';
+         break;
+      }
+      answer += '-\n';
+   }
+   console.log(answer.trim());
+}
+
+// for문에 n[0]이라고 지정해버림 리스트를 다른 방법으로 받아온걸 잊음.
 
 console.log(solution(`8
 4
