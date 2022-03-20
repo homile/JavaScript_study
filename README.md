@@ -72,6 +72,14 @@
             </ul>
         </details>
     </ul>
+      <ul>
+        <details>
+            <summary>1차원배열</summary>
+            <ul>
+                <li>10818번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/10818%EB%B2%88_%EC%B5%9C%EC%86%8C%2C%EC%B5%9C%EB%8C%80.js">최소, 최대</a></li>
+            </ul>
+        </details>
+    </ul>
 </details>
 
 # Programmers
