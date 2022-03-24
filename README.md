@@ -13,6 +13,7 @@
         <li>10828번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoonAlgorithm/10828%EB%B2%88_%EC%8A%A4%ED%83%9D.js">스택</a></li>
         <li>9093번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/9093%EB%B2%88_%EB%8B%A8%EC%96%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.js">단어 뒤집기</a></li>
         <li>9012번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/9012%EB%B2%88_%EA%B4%84%ED%98%B8.js">괄호</a></li>
+        <li>1874번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/1874%EB%B2%88_%EC%8A%A4%ED%83%9D_%EC%88%98%EC%97%B4.js">스택 수열</a></li>
         <li>1406번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/1406%EB%B2%88_%EC%97%90%EB%94%94%ED%84%B0.js">에디터</a></li>
     </ul>
 </details>
@@ -78,6 +79,8 @@
             <summary>1차원배열</summary>
             <ul>
                 <li>10818번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/10818%EB%B2%88_%EC%B5%9C%EC%86%8C%2C%EC%B5%9C%EB%8C%80.js">최소, 최대</a></li>
+                <li>2562번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/2562%EB%B2%88_%EC%B5%9C%EB%8C%93%EA%B0%92.js">최댓값</a></li>
+                <li>2577번: <a href="https://github.com/homile/JavaScript_study/commit/0dfc894663be7c3f0152b679059816569f2d4f79">숫자의 개수</a></li>
             </ul>
         </details>
     </ul>
