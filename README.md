@@ -77,13 +77,22 @@
             </ul>
         </details>
     </ul>
-      <ul>
+    <ul>
         <details>
             <summary>1차원배열</summary>
             <ul>
                 <li>10818번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/10818%EB%B2%88_%EC%B5%9C%EC%86%8C%2C%EC%B5%9C%EB%8C%80.js">최소, 최대</a></li>
                 <li>2562번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/2562%EB%B2%88_%EC%B5%9C%EB%8C%93%EA%B0%92.js">최댓값</a></li>
                 <li>2577번: <a href="https://github.com/homile/JavaScript_study/commit/0dfc894663be7c3f0152b679059816569f2d4f79">숫자의 개수</a></li>
+            </ul>
+        </details>
+    </ul>
+    <ul>
+        <details>
+            <summary>함수</summary>
+            <ul>
+                <li>4673번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%ED%95%A8%EC%88%98/4673%EB%B2%88_%EC%85%80%ED%94%84_%EB%84%98%EB%B2%84.js">셀프 넘버</a></li>
+                <li>1065번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%ED%95%A8%EC%88%98/1065%EB%B2%88_%ED%95%9C%EC%88%98.js">한수</a></li>
             </ul>
         </details>
     </ul>
