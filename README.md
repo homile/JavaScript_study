@@ -15,6 +15,9 @@
         <li>9012번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/9012%EB%B2%88_%EA%B4%84%ED%98%B8.js">괄호</a></li>
         <li>1874번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/1874%EB%B2%88_%EC%8A%A4%ED%83%9D_%EC%88%98%EC%97%B4.js">스택 수열</a></li>
         <li>1406번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/1406%EB%B2%88_%EC%97%90%EB%94%94%ED%84%B0.js">에디터</a></li>
+        <li>10845번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10845%EB%B2%88_%ED%81%90.js">큐</a></li>
+        <li>1158번: <a href="">요세푸스 문제</a></li>
+        <li>10866번: <a href="">덱</a></li>
     </ul>
 </details>
 <details>
