@@ -4,7 +4,7 @@
 
 // 문제풀이(1)
 function solution(input){
-   //const word = require('fs').readFileSync('/dev/stdin').toString().toLowerCase();
+   //const word = require('fs').readFileSync('/dev/stdin').toString().trim().toLowerCase();
    const word = input.toLowerCase();
    const alpha = [...new Set(word.split(''))];
    let max = 0;
