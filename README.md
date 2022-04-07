@@ -19,6 +19,7 @@
         <li>1158번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/1158%EB%B2%88_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C.js">요세푸스 문제</a></li>
         <li>10866번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10866%EB%B2%88_%EB%8D%B1.js">덱</a></li>
         <li>17413번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/17413%EB%B2%88_%EB%8B%A8%EC%96%B4_%EB%92%A4%EC%A7%91%EA%B8%B02.js">단어 뒤집기2</a></li>
+        <li>17298번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/17298%EB%B2%88_%EC%98%A4%ED%81%B0%EC%88%98.js">오큰수</a></li>
     </ul>
 </details>
 <details>
