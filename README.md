@@ -20,6 +20,8 @@
         <li>10866번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10866%EB%B2%88_%EB%8D%B1.js">덱</a></li>
         <li>17413번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/17413%EB%B2%88_%EB%8B%A8%EC%96%B4_%EB%92%A4%EC%A7%91%EA%B8%B02.js">단어 뒤집기2</a></li>
         <li>17298번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/17298%EB%B2%88_%EC%98%A4%ED%81%B0%EC%88%98.js">오큰수</a></li>
+        <li>10799번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/10799%EB%B2%88_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.js">쇠막대기</a></li>
+        <li>17299번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/Algorithm/17299%EB%B2%88_%EC%98%A4%EB%93%B1%ED%81%B0%EC%88%98.js">오등큰수</a></li>
     </ul>
 </details>
 <details>
@@ -95,6 +97,22 @@
             <ul>
                 <li>4673번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%ED%95%A8%EC%88%98/4673%EB%B2%88_%EC%85%80%ED%94%84_%EB%84%98%EB%B2%84.js">셀프 넘버</a></li>
                 <li>1065번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%ED%95%A8%EC%88%98/1065%EB%B2%88_%ED%95%9C%EC%88%98.js">한수</a></li>
+            </ul>
+        </details>
+    </ul>
+        <ul>
+        <details>
+            <summary>문자열</summary>
+            <ul>
+                <li>11654번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/11654%EB%B2%88_%EC%95%84%EC%8A%A4%ED%82%A4_%EC%BD%94%EB%93%9C.js">아스키 코드</a></li>
+                <li>11720번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%EB%B2%88_%EC%88%AB%EC%9E%90%EC%9D%98_%ED%95%A9.js">숫자의 합</a></li>
+                <li>10809번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88_%EC%95%8C%ED%8C%8C%EB%B2%B3_%EC%B0%BE%EA%B8%B0.js">알파벳 찾기</a></li>
+                <li>2675번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/2675%EB%B2%88_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B0%98%EB%B3%B5.js">문자열 반복</a></li>
+                <li>1157번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/1157%EB%B2%88_%EB%8B%A8%EC%96%B4_%EA%B3%B5%EB%B6%80.js">단어 공부</a></li>
+                <li>1152번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/1152%EB%B2%88_%EB%8B%A8%EC%96%B4%EC%9D%98_%EA%B0%9C%EC%88%98.js">단어의 개수</a></li>
+                <li>2908번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/2908%EB%B2%88_%EC%83%81%EC%88%98.js">상수</a></li>
+                <li>5622번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/5622%EB%B2%88_%EB%8B%A4%EC%9D%B4%EC%96%BC.js">다이얼</a></li>
+                <li>2941번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/2941%EB%B2%88_%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84_%EC%95%8C%ED%8C%8C%EB%B2%B3.js">크로아티아 알파벳</a></li>
             </ul>
         </details>
     </ul>
