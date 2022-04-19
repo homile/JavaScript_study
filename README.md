@@ -112,6 +112,22 @@
                 <li>2908번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/2908%EB%B2%88_%EC%83%81%EC%88%98.js">상수</a></li>
                 <li>5622번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/5622%EB%B2%88_%EB%8B%A4%EC%9D%B4%EC%96%BC.js">다이얼</a></li>
                 <li>2941번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/2941%EB%B2%88_%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84_%EC%95%8C%ED%8C%8C%EB%B2%B3.js">크로아티아 알파벳</a></li>
+                <li>1316번: <a href="https://github.com/homile/JavaScript_study/blob/main/baekjoon/%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%EB%B2%88_%EA%B7%B8%EB%A3%B9_%EB%8B%A8%EC%96%B4_%EC%B2%B4%EC%BB%A4.js">그룹 단어 체커</a></li>                
+            </ul>
+        </details>
+    </ul>
+    <ul>
+        <details>
+            <summary>기본수학 1</summary>
+            <ul>
+                <li>1712번: <a href="">손익분기점</a></li>
+                <li>2292번: <a href="">벌집</a></li>
+                <li>1193번: <a href="">분수찾기</a></li>
+                <li>2869번: <a href="">달팽이는 올라가고 싶다</a></li>
+                <li>10250번: <a href="">ACM 호텔</a></li>
+                <li>2775번: <a href="">부녀회장이 될테야</a></li>
+                <li>2839번: <a href="">설탕 배달</a></li>
+                <li>10757번: <a href="">큰 수 A+B</a></li>
             </ul>
         </details>
     </ul>
