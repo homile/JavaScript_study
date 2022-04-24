@@ -116,6 +116,10 @@ function solution(input){
 
 }
 
-console.log(solution(`1
-AA+A+
-1`));
+console.log(solution(`5
+ABC*+DE/-
+1
+2
+3
+4
+5`));

@@ -48,4 +48,4 @@ function solution(input){
    console.log(answer);
 }
 
-console.log(solution(`A*(B+C)`));   // ABC+*
+console.log(solution(`A+B*C-D/E`));   // ABC+*
