@@ -10,8 +10,50 @@ ROT13은 카이사르 암호에 대해 알아야 풀 수 있는 문제
 */
 
 // 문제풀이(1)
+// function solution(input){
+//    //const str = require('fs').readFileSync('/dev/stdin').toString().trim();
+//    const str = input;
+//    let answer = '';
+
+//    for (let i = 0; i < str.length; i++){
+//       char = str.charCodeAt(i);
+//       // 대문자일 경우
+//       if(char >= 65 && char <= 90){
+//          char += 13;
+//          if(char > 90){
+//             answer += String.fromCharCode(char-26);
+//          }else{
+//             answer += String.fromCharCode(char)
+//          }
+//          // 소문자일 경우
+//       }else if(char >= 97 && char <= 122){
+//          char += 13;
+//          if(char > 122){
+//             answer += String.fromCharCode(char-26);
+//          }else{
+//             answer += String.fromCharCode(char);
+//          }
+//       }else{
+//          answer += str[i];
+//       }
+//    }
+
+//    console.log(answer);
+
+//    // console.log(String.fromCharCode(90), str.charCodeAt(1));
+
+// }
+
+
+// 출력 형식이 잘못되었습니다.
+// 질문하기 -> 입력: 공백, 출력: 없음, 답: 공백
+// 공백이 앞에 붙는 경우를 생각해야함.
+// trim 문제
+
+
+// 문제풀이(1)
 function solution(input){
-   //const str = require('fs').readFileSync('/dev/stdin').toString().trim();
+   //const str = require('fs').readFileSync('/dev/stdin').toString();
    const str = input;
    let answer = '';
 
@@ -44,4 +86,4 @@ function solution(input){
 
 }
 
-console.log(solution(`Baekjoon Online Judge`)); 
+console.log(solution(`One is 1`)); 
