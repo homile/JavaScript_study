@@ -52,5 +52,19 @@ function solution(s) {
   return Number(answer);
 }
 
+// 영웅님 추천 정규식 풀이
+function solution(s) {
+  
+  // 속성 = 영단어, 속성 값 = 정수
+  const arr = ['zero', 'one','two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+  
+  for(let i = 0; i < arr.length; i++){
+      let reg = new RegExp(`${arr[i]}`, 'gi');
+      s = s.replace(reg, i);
+  }
+  
+  return Number(s);
+}
+
 
 console.log(solution("one4seveneight"));      // 1478
