@@ -15,6 +15,20 @@ Number을 사용하여 문자와 숫자를 구분한다. (x)
 정규표현식을 사용하여 문자와 숫자를 구분한다. (o)
  */
 
+// 문제풀이(1)
+function solution(s) {
+    if (s.length === 4 || s.length === 6){
+        for(let i = 0; i < s.length; i++){
+            if (isNaN(s[i])){ return false }
+        }
+        return true
+    }
+    return false
+}
+console.log(solution("a234"));  // fasle
+console.log(solution("1234"));  // true
+
+// 문제풀이(2)
 function solution(s) {
     if (s.length === 4 || s.length === 6){
         if (/^[0-9]+$/.test(s)){
