@@ -12,14 +12,18 @@ function solution(answers) {
 
   let count = [0, 0, 0];
   
+  // 반복돼야하기 때문에 수포자들의 찍기 패턴의 길이를 i로 나눈 나머지로 하면 무한 순회 가능
   for (let i = 0; i < answers.length; i++){
-      if(answers[i] === arr1[i]) count[0] += 1;
-      if(answers[i] === arr2[i]) count[1] += 1;
-      if(answers[i] === arr3[i]) count[2] += 1;
+      if(answers[i] === arr1[i%arr1.length]) count[0] += 1;
+      if(answers[i] === arr2[i%arr2.length]) count[1] += 1;
+      if(answers[i] === arr3[i%arr3.length]) count[2] += 1;
   }
   
+  for (let i = 0; i < 3; i++){
+      Math.max(...count) <= count[i] && result.push(i+1)    
+  }
   
-  return count;
+  return result;
 }
 
 console.log(solution([1, 2, 3, 4, 5]));   // [1]
