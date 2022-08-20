@@ -3,9 +3,19 @@
 
 // 문제풀이(1)
 function solution(sizes) {
-  let answer = 0;
+  let ver = 0;   // 세로
+  let hor = 0;   // 가로
 
-  return answer;
+  for(let i = 0; i < sizes.length; i++){
+    if (hor < Math.max(...sizes[i])) {
+      hor = Math.max(...sizes[i])
+    }
+    if(ver < Math.min(...sizes[i])){
+      ver = Math.min(...sizes[i])
+    }
+  }
+
+  return hor * ver
 }
 
 console.log(solution([[60, 50], [30, 70], [60, 30], [80, 40]]));  // 4000
