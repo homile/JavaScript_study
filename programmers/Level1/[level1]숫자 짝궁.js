@@ -46,7 +46,34 @@ function solution(X, Y) {
   return answer === "" ? "-1" : [...answer].sort((a, b) => b - a).join("");
 }
 
-// 문제풀이(3)
+// 문제 풀이(3)
+function solution(X, Y) {
+  // 배열로 푸니 시간 초과가 뜬다.
+  // 객체로 풀어볼까? -> 객체에 하나씩 추가한다.
+  // 객체에 하나씩 값을 넣어준다.
+  // 객체에 값기 존재할 경우 카운트를 올린다.
+
+  let answer = [];
+
+  const obj = {};
+
+  for (let i of X) {
+    i in obj ? (obj[i] += 1) : (obj[i] = 1);
+  }
+
+  for (let i of Y) {
+    if (obj[i] > 0) {
+      answer.push(i);
+      obj[i] -= 1;
+    }
+  }
+
+  let result = answer.sort((a, b) => b - a).join("");
+
+  return result.length !== 0 ? (result[0] === "0" ? "0" : result) : "-1";
+}
+
+// 다른 사람의 풀이(1)
 function solution(X, Y) {
   let answer = "";
 
