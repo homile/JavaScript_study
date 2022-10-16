@@ -24,6 +24,49 @@ function solution(X, Y) {
   return answer === "" ? "-1" : [...answer].sort((a, b) => b - a).join("");
 }
 
+// 문제풀이(2)
+// 시간초과
+function solution(X, Y) {
+  X = X.split("");
+  Y = Y.split("");
+  let answer = [];
+  for (let i = 0; i < X.length; i++) {
+    for (let j = 0; j < Y.length; j++) {
+      if (X[i] === Y[j]) {
+        answer.push(X[i]);
+        X.splice(i, 1);
+        Y.splice(j, 1);
+        i--;
+        j--;
+        break;
+      }
+    }
+  }
+
+  return answer === "" ? "-1" : [...answer].sort((a, b) => b - a).join("");
+}
+
+// 문제풀이(3)
+function solution(X, Y) {
+  let answer = "";
+
+  X = X.split("");
+  Y = Y.split("");
+
+  for (let i = 0; i < 10; i++) {
+    const X_cnt = X.filter((el) => +el === i).length;
+    const Y_cnt = Y.filter((el) => +el === i).length;
+    answer += i.toString().repeat(Math.min(X_cnt, Y_cnt));
+  }
+
+  if (answer === "") {
+    return "-1";
+  } else if (answer.match(/[^0]/g) === null) {
+    return "0";
+  } else {
+    return [...answer].sort().reverse().join("");
+  }
+}
 
 console.log(solution("100", "2345")); // "-1"
 console.log(solution("100", "203045")); // "0"
