@@ -27,35 +27,36 @@ function BFS(x, y) {
   visited[x][y] = 1;
 
   // 상하좌우 판별
-  const dx = [0, 0, -1, 1];
-  const dy = [-1, 1, 0, 0];
+  const ds = [
+    [-1, 0],
+    [1, 0],
+    [0, 1],
+    [0, -1],
+  ];
 
   // 큐가 빌 때까지 반복
   while (queue.length) {
-    // 큐에서 x와 y 추출
+    // // 큐에서 x와 y 추출
     const [nX, nY] = queue.shift();
-    // 방문
-    // console.log(queue);
-    // console.log(node);
-    // console.log(visited);
-    // console.log(maze);
-    // console.log(maze[node]);
 
-    // 0일 경우 패스
+    // // 현재 노드가 0일 경우 패스
     if (!maze[nX][nY]) continue;
+    // 방문 처리
+    maze[nX][nY] = 0;
 
-    // 원소의 인접 노드 탐색
-    for (let i = 0; i < queue.length; i++) {}
-    // maze[node].forEach((i) => {
-    //   // 방문한 적이 없다면
-    //   if (!visited[i]) {
-    //     // 큐에 추가
-    //     queue.push(i);
-    //     // 방문 처리
-    //     visited[i] = true;
-    //   }
-    // });
+    for (let i = 0; i < 4; i++) {
+      const posX = nX + ds[i][0];
+      const posY = nY + ds[i][1];
+
+      if (posX < 0 || posY < 0 || posX >= N || posY >= M) continue;
+      if (maze[posX][posY]) {
+        queue.push([posX, posY]);
+        visited[posX][posY] = visited[nX][nY] + 1;
+      }
+    }
   }
+
+  return visited[N - 1][M - 1];
 }
 
 // 호출
